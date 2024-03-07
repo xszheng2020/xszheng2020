@@ -1,4 +1,4 @@
-### Hi there 👋  I'm [Xiaosen Zheng](https://openreview.net/profile?id=~Xiaosen_Zheng1) |  ![](https://komarev.com/ghpvc/?username=xszheng2020)
+### Hi there 👋  I'm [Xiaosen Zheng](https://openreview.net/profile?id=~Xiaosen_Zheng1).
 
 I am a Ph.D. student in Computer Science at the Singapore Management University supervised by Professor Jing Jiang. 
 
