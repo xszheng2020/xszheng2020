@@ -4,7 +4,7 @@ I am a Ph.D. student in Computer Science at the Singapore Management University 
 
 My email address is xszheng2020@phdcs.smu.edu.sg.
 
-I research Interpretability and Data-Centric AI.
+I research Interpretability and Safety.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xszheng2020)](https://github.com/anuraghazra/github-readme-stats)
