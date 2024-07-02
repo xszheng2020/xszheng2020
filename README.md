@@ -1,6 +1,7 @@
 ### Hi there 👋  I'm [Xiaosen Zheng](https://openreview.net/profile?id=~Xiaosen_Zheng1).
 
 I am a Ph.D. student in Computer Science at the Singapore Management University supervised by Professor Jing Jiang. 
+I am fortunate to have experience working with Tianyu Pang, Chao Du, and Qian Liu. 
 
 My email address is xszheng2020@phdcs.smu.edu.sg.
 
