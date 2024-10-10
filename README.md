@@ -2,11 +2,13 @@
 
 I am a Ph.D. student in Computer Science at the Singapore Management University supervised by Professor Jing Jiang. 
 
-I research Interpretability (Data-Centric) and Safety.
+I am also a Visiting Scholar at the CX Group, LTI, CMU, under the guidance of Professor Chenyan Xiong.
 
-I am fortunate to work with Tianyu Pang, Chao Du, and Qian Liu.
+My research focuses on Data-Centric AI and AI Safety.
 
-My email address is xszheng2020@phdcs.smu.edu.sg.
+Previously, I had the privilege of collaborating with Tianyu Pang, Chao Du, Qian Liu, and Min Lin at Sea AI Lab.
+
+My email address is xiaosenz@andrew.cmu.edu.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xszheng2020)](https://github.com/anuraghazra/github-readme-stats)
